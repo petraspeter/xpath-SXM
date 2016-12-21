@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UCIRoad category="World Teams" actualSeason="2016">
+  <!-- Jednotlive timy -->
+  <worldTeam teamName="Sky">
+    <!-- Zoznam jazdcov -->
+    <rider>
+      <firstName>Michal</firstName>
+      <lastName>Kwiatkowski</lastName>
+      <nickName>Kwiatek, Flowerman</nickName>
+      <type>All-rounder</type>
+      <dateOfBirth>02 Jun 1990</dateOfBirth>
+      <nationality>Polish</nationality>
+      <height unit="m">1.76</height>
+      <majorAchievement>
+        <season year="2013" team="Omega Pharma-Quick Step">
+          <achievement type="Grand Tours">Tour of the Algarve, 2nd position</achievement>
+          <achievement type="Classics">World Team Time Trial Championships, 1st</achievement>
+          <achievement type="Classics">National Road Race Championships, 1st</achievement>
+        </season>
+        <season year="2016" team="Sky">
+          <achievement type="Grand Tours">Vuelta a España, 2nd stage global leader</achievement>
+          <achievement type="Classics">E3 Harelbeke, 1st</achievement>
+        </season>
+      </majorAchievement>
+    </rider>
+    <rider>
+      <firstName>Christopher</firstName>
+      <lastName>Froome</lastName>
+      <nickName>Froomey</nickName>
+      <type>All-rounder</type>
+      <dateOfBirth>20 May 1985</dateOfBirth>
+      <nationality>England</nationality>
+      <height unit="m">1.85</height>
+      <majorAchievement>
+          <season year="2013" team="Omega Pharma-Quick Step">
+            <achievement type="Grand Tours">Tour de France, 1st position(global classification)</achievement>
+            <achievement type="Stage Races">Critérium du Dauphiné, 1st</achievement>
+          </season>
+          <season year="2015" team="Sky">
+            <achievement type="Grand Tours">Tour de France, 1st position(global classification)</achievement>
+          </season>
+          <season year="2016" team="Sky">
+            <achievement type="Grand Tours">Tour de France, 1st position(global classification)</achievement>
+            <achievement type="Stage Races">Critérium du Dauphiné, 1st</achievement>
+            <achievement type="Stage Races">Herald Sun Tour, 1st</achievement>
+          </season>
+        </majorAchievement>
+    </rider>
+    <rider>
+      <firstName>Leopold</firstName>
+      <lastName>König</lastName>
+      <nickName>Leo</nickName>
+      <type>All-rounder</type>
+      <dateOfBirth>15 Nov 1987</dateOfBirth>
+      <nationality>Czech Republic</nationality>
+      <height unit="m">1.78</height>
+      <majorAchievement>
+        <season year="2013" team="NetApp">
+          <achievement type="Grand Tours">Vuelta a España, 8th stage winner</achievement>
+        </season>
+        <season year="2016" team="Sky">
+          <achievement type="Classics">Czech National Time Trial Championships, 1st</achievement>
+        </season>
+      </majorAchievement>
+    </rider>
+  </worldTeam>
+  <worldTeam teamName="BMC Racing Team">
+    <rider>
+      <firstName>Richie</firstName>
+      <lastName>Port</lastName>
+      <nickName>Tasmanian Devil Fish</nickName>
+      <type>All-rounder</type>
+      <dateOfBirth>30 Jan 1985</dateOfBirth>
+      <nationality>Australia</nationality>
+      <height unit="m">1.72</height>
+      <majorAchievement>
+        <season year="2010" team="Saxo Bank">
+          <achievement type="Grand Tours">Young rider classification, young rider classificationr</achievement>
+        </season>
+        <season year="2015" team="BMC Racing Team">
+          <achievement type="Stage Races">Paris–Nice, 1st</achievement>
+          <achievement type="Stage Races">Giro del Trentino 1st</achievement>
+          <achievement type="Classics">National Time Trial Championships, 1st</achievement>
+        </season>
+      </majorAchievement>
+    </rider>
+    <rider>
+      <firstName>Peter</firstName>
+      <lastName>Velits</lastName>
+      <nickName>Speedy</nickName>
+      <type>All-rounder</type>
+      <dateOfBirth>21 Feb 1985</dateOfBirth>
+      <nationality>Slovakia</nationality>
+      <height unit="m">1.81</height>
+      <majorAchievement>
+        <season year="2010" team="HTC–Columbia">
+          <achievement type="Grand Tours">Vuelta a España, 3rd position(global classification)</achievement>
+        </season>
+        <season year="2012" team="Omega Pharma–Quick-Step">
+          <achievement type="Stage Races">Tour of Oman, 1st</achievement>
+        </season>
+        <season year="2013" team="Omega Pharma–Quick-Step">
+          <achievement type="Classics">National Time Trial Championships, 1st</achievement>
+          <achievement type="Classics">World Team Time Trial Championships, 1st</achievement>
+        </season>
+        <season year="2014" team="BMC Racing Team">
+          <achievement type="Classics">World Team Time Trial Championships, 1st</achievement>
+        </season>
+      </majorAchievement>
+    </rider>
+  </worldTeam>
+  <worldTeam teamName="Lotto Soudal">
+    <rider>
+      <firstName>André</firstName>
+      <lastName>Greipel</lastName>
+      <nickName>The Gorilla</nickName>
+      <type>Sprinter</type>
+      <dateOfBirth>16 Jul 1982</dateOfBirth>
+      <nationality>Germany</nationality>
+      <height unit="m">1.84</height>
+      <majorAchievement>
+        <season year="2009" team="T-Mobile Team">
+          <achievement type="Grand Tours">Vuelta a España, 1st points classification position</achievement>
+          <achievement type="Grand Tours">Vuelta a España, 4 individual stages winner</achievement>
+        </season>
+        <season year="2010" team="T-Mobile Team">
+          <achievement type="Stage Races">Tour Down Under</achievement>
+        </season>
+        <season year="2011" team="Omega Pharma–Lotto">
+          <achievement type="Grand Tours">Tour de France, 1 Stage won</achievement>
+        </season>
+        <season year="2012" team="Lotto Soudal">
+          <achievement type="Grand Tours">Tour de France, 3 Stages won</achievement>
+          <achievement type="Grand Tours">Tour de France, 2nd points classification position</achievement>
+        </season>
+        <season year="2013" team="Lotto Soudal">
+          <achievement type="Classics">National Road Race Championship, 1st</achievement>
+          <achievement type="Grand Tours">Tour de France, 3 Stages won</achievement>
+          <achievement type="Grand Tours">Tour de France, 3th points classification position</achievement>
+        </season>
+        <season year="2015" team="Lotto Soudal">
+          <achievement type="Classics">Vattenfall CyClassics, 1st</achievement>
+          <achievement type="Grand Tours">Tour de France, 4 Stages won</achievement>
+        </season>
+        <season year="2016" team="Lotto Soudal">
+          <achievement type="Classics">National Road Race Championship, 1st</achievement>
+          <achievement type="Grand Tours">Tour de France, 1 Stage won</achievement>
+        </season>
+      </majorAchievement>
+    </rider>
+  </worldTeam>
+</UCIRoad>
